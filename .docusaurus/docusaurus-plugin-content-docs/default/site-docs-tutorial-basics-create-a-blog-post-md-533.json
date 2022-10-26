@@ -1,0 +1,26 @@
+{
+  "unversionedId": "tutorial-basics/create-a-blog-post",
+  "id": "tutorial-basics/create-a-blog-post",
+  "title": "Network and Systems Basing",
+  "description": "",
+  "source": "@site/docs/tutorial-basics/create-a-blog-post.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/create-a-blog-post",
+  "permalink": "/build/docs/tutorial-basics/create-a-blog-post",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Computer Forensic Analysis",
+    "permalink": "/build/docs/tutorial-basics/create-a-document"
+  },
+  "next": {
+    "title": "Cybersecurity Regulations",
+    "permalink": "/build/docs/tutorial-basics/markdown-features"
+  }
+}
