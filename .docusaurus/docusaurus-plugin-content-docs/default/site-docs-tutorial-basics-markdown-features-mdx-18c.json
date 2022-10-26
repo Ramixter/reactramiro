@@ -1,0 +1,26 @@
+{
+  "unversionedId": "tutorial-basics/markdown-features",
+  "id": "tutorial-basics/markdown-features",
+  "title": "Cybersecurity Regulations",
+  "description": "",
+  "source": "@site/docs/tutorial-basics/markdown-features.mdx",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/markdown-features",
+  "permalink": "/build/docs/tutorial-basics/markdown-features",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Network and Systems Basing",
+    "permalink": "/build/docs/tutorial-basics/create-a-blog-post"
+  },
+  "next": {
+    "title": "Safe Production Start-up",
+    "permalink": "/build/docs/tutorial-basics/deploy-your-site"
+  }
+}
