@@ -1,0 +1,15 @@
+{
+  "title": "Tutorial - Extras",
+  "slug": "/category/tutorial---extras",
+  "permalink": "/build/es/docs/category/tutorial---extras",
+  "navigation": {
+    "previous": {
+      "title": "Mas información",
+      "permalink": "/build/es/docs/tutorial-basics/congratulations"
+    },
+    "next": {
+      "title": "Prácticas 1",
+      "permalink": "/build/es/docs/tutorial-extras/manage-docs-versions"
+    }
+  }
+}
