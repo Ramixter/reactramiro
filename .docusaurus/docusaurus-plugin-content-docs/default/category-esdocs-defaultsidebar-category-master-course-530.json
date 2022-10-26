@@ -1,0 +1,16 @@
+{
+  "title": "Master - Course",
+  "description": "Master in Cybersecurity Prime.",
+  "slug": "/category/master---course",
+  "permalink": "/es/docs/category/master---course",
+  "navigation": {
+    "previous": {
+      "title": "Intro",
+      "permalink": "/es/docs/intro"
+    },
+    "next": {
+      "title": "Haking Étíco",
+      "permalink": "/es/docs/tutorial-basics/create-a-page"
+    }
+  }
+}
