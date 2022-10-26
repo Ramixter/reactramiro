@@ -1,0 +1,26 @@
+{
+  "unversionedId": "tutorial-basics/deploy-your-site",
+  "id": "tutorial-basics/deploy-your-site",
+  "title": "Safe Production Start-up",
+  "description": "",
+  "source": "@site/docs/tutorial-basics/deploy-your-site.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/deploy-your-site",
+  "permalink": "/build/docs/tutorial-basics/deploy-your-site",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Cybersecurity Regulations",
+    "permalink": "/build/docs/tutorial-basics/markdown-features"
+  },
+  "next": {
+    "title": "More information",
+    "permalink": "/build/docs/tutorial-basics/congratulations"
+  }
+}
