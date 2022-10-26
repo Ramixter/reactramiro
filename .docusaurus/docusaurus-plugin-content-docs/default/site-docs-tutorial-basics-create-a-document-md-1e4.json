@@ -1,0 +1,26 @@
+{
+  "unversionedId": "tutorial-basics/create-a-document",
+  "id": "tutorial-basics/create-a-document",
+  "title": "Computer Forensic Analysis",
+  "description": "",
+  "source": "@site/docs/tutorial-basics/create-a-document.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/create-a-document",
+  "permalink": "/build/docs/tutorial-basics/create-a-document",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Ethical Haking",
+    "permalink": "/build/docs/tutorial-basics/create-a-page"
+  },
+  "next": {
+    "title": "Network and Systems Basing",
+    "permalink": "/build/docs/tutorial-basics/create-a-blog-post"
+  }
+}
