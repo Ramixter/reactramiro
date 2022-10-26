@@ -1,0 +1,16 @@
+{
+  "title": "Tutorial - Basics",
+  "description": "Master in Cybersecurity Prime.",
+  "slug": "/category/tutorial---basics",
+  "permalink": "/docs/category/tutorial---basics",
+  "navigation": {
+    "previous": {
+      "title": "Tutorial Intro",
+      "permalink": "/docs/intro"
+    },
+    "next": {
+      "title": "Ethical Haking",
+      "permalink": "/docs/tutorial-basics/create-a-page"
+    }
+  }
+}
