@@ -1,0 +1,26 @@
+{
+  "unversionedId": "tutorial-basics/congratulations",
+  "id": "tutorial-basics/congratulations",
+  "title": "More information",
+  "description": "",
+  "source": "@site/docs/tutorial-basics/congratulations.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/congratulations",
+  "permalink": "/build/docs/tutorial-basics/congratulations",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Safe Production Start-up",
+    "permalink": "/build/docs/tutorial-basics/deploy-your-site"
+  },
+  "next": {
+    "title": "Tutorial - Extras",
+    "permalink": "/build/docs/category/tutorial---extras"
+  }
+}
